@@ -2,7 +2,7 @@ package sorts;
 
 /**
  *
- * @author Dr. Mec
+ * @author Evie Hilton
  *
  * Notes: Bubble sort, insertion sort, selection sort developed in class
  * Quicksort and Mergesort direct modification from Java Foundations Text
